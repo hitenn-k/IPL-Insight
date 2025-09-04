@@ -34,8 +34,9 @@ the past 3 years.
 𝗖𝗿𝗶𝗰𝗸𝗲𝘁 𝗞𝗲𝘆 𝗧𝗲𝗿𝗺𝘀 🏏 
 
 𝗕𝗮𝘁𝘁𝗶𝗻𝗴 𝗔𝘃𝗲𝗿𝗮𝗴𝗲: How many runs a batsman scores each time they got out.
-Dashboard Link:- https://app.powerbi.com/view?r=eyJrIjoiMTc0ODdkMjAtN2ExYi00ODcyLWJlY2ItMWEwOWY5MDcyMDM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 𝗕𝗮𝘁𝘁𝗶𝗻𝗴 𝗦𝘁𝗿𝗶𝗸𝗲 𝗥𝗮𝘁𝗲: How quickly a batsman scores runs.
 𝗕𝗼𝘄𝗹𝗶𝗻𝗴 𝗔𝘃𝗲𝗿𝗮𝗴𝗲: How many runs a bowler gives away per wicket taken.
 𝗕𝗼𝘄𝗹𝗶𝗻𝗴 𝗘𝗰𝗼𝗻𝗼𝗺𝘆: How many runs does a bowler concede per over bowled.
 𝗕𝗼𝘄𝗹𝗶𝗻𝗴 𝗦𝘁𝗿𝗶𝗸𝗲 𝗥𝗮𝘁𝗲: How frequently a bowler takes wickets.
+
+Dashboard Link:- https://app.powerbi.com/view?r=eyJrIjoiMTc0ODdkMjAtN2ExYi00ODcyLWJlY2ItMWEwOWY5MDcyMDM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
